@@ -15328,7 +15328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 24.13 35.56 0)
 			(effects
 				(font

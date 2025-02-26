@@ -12,8 +12,6 @@ Here is a list of all the differences:
 top row of the numpad as well
 - I replaced the second Windows key with another key which will probably activate a
   custom layer in my keymap
-- I changed the size of my escape key (which was really dumb because I will never find an
-  escape key with that size)
 - I added two buttons to the sides of the up arrow key:
   - A backspace key on the left
   - A delete key on the right
